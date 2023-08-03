@@ -5,6 +5,6 @@ export default async function education() {
     const htmlData = postData['contentHtml'];
     console.log(htmlData)
     return (
-        <div dangerouslySetInnerHTML={{__html: htmlData}}></div>
+        <div id='articleContent' dangerouslySetInnerHTML={{__html: htmlData}}></div>
     )
 }
