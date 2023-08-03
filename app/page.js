@@ -1,7 +1,14 @@
-import Image from 'next/image'
+import { getPostData } from "@/lib/posts"
 
-export default function Home() {
+import './local.css'
+
+export default async function Home() {
+  const postData = await getPostData('index');
+  const htmlData = postData['contentHtml'];
   return (
-    <div>Kevin's beginning</div>
+    <>
+      <div id='articleContent' dangerouslySetInnerHTML={{__html: htmlData}}></div>
+    </>
   )
 }
+
