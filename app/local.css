@@ -1,0 +1,8 @@
+#articleContent img {
+    width: 50%;
+	margin: auto;
+}
+
+#articleContent h2 {
+    color: black;
+}

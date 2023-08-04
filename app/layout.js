@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 import './globals.css'
+import './local.css'
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -24,8 +25,6 @@ export default function RootLayout({ children }) {
             <li><a href='/hobbies'>Hobbies</a></li>
           </ul>
         </nav>
-        <br></br>
-        <br></br>
         {children}
         <div id='platformNotice'>
           Check me out on other platforms:
