@@ -10,8 +10,8 @@ priority: 0
 I wanted to create a personal website, and even though there are a plethora of different services with gorgeous templates and effects, I decided to challenge myself and create a website from scratch.
 
 #### Skills Used: 
-* Next.js
-* React
+* Javascript, HTML, CSS
+* Next.js, React
 * Tailwind CSS
 
 ## [**Webnovel Tracking List** ![github-mark.png](github-mark.png "Github Redirect")](https://github.com/doublesmokedbaconandpie/Personal-Webnovel-Ranking-List):
@@ -22,11 +22,8 @@ Another one of my hobbies is reading webnovels, most often translated webnovels,
 The personal webnovel tracking list more compactly organizes one's reading list and offers more features in order to search through one's list of webnovels quickly. This is in progress, though I hope to add more support for other people in the future. 
 
 #### Skills Used:
-* Python
-* SQL
-* Javascript
-* HTML
-* CSS
+* Python, SQL
+* Javascript, HTML, CSS
 
 ## [**Tetris Statistics Compiler** ![github-mark.png](github-mark.png "Github Redirect")](https://github.com/doublesmokedbaconandpie/Jstris-Stats-Discord-Bot): 
 ### November 2021 - May 2022

@@ -18,7 +18,7 @@ nav {
   width: 15%;
   float: left;
   margin: 1em;
-  font-size: 1.5em;
+  font-size: 1.6em;
 }
 
 #mainMenu a {
@@ -53,10 +53,13 @@ nav {
 }
 
 #articleContent h2 {
-	font-size: 1.4em;
-	color: blue;
 	margin-top: 1em;
 	margin-bottom: 0em;
+	font-size: 1.4em;
+}
+
+#articleContent h2 a {
+	color: blue;
 }
 
 #articleContent h3 {
@@ -84,7 +87,6 @@ nav {
 #articleContent li {
 	list-style-type: circle;
 	list-style-position: inside;
-	width: 30%;
 	font-weight: bold;
 }
 
@@ -99,7 +101,6 @@ nav {
 .imageIcon {
 	margin: 15px;
 	transition: all 1s ease;
-	transform: scale(1);
 }
 
 .imageIcon:hover {
