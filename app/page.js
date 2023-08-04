@@ -1,7 +1,5 @@
 import { getPostData } from "@/lib/posts"
 
-import './local.css'
-
 export default async function Home() {
   const postData = await getPostData('index');
   const htmlData = postData['contentHtml'];

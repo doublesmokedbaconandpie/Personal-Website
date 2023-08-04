@@ -1,4 +1,5 @@
 import { getPostData } from "@/lib/posts"
+import "./local.css"
 
 export default async function education() {
     const postData = await getPostData('projects');
