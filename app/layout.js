@@ -31,7 +31,7 @@ export default function RootLayout({ children }) {
         </div>
         <div id='redirects' className='flex items-center justify-center'>
           {imageIcon('LinkedIn', '/linkedin.png', 'https://www.linkedin.com/in/kevin-nguyen-89326a242/')}
-          {imageIcon('Github', '/github-mark.png', 'https://github.com/doublesmokedbaconandpie')}
+          {imageIcon('Github', '/github-mark.png', 'https://github.com/knguy22')}
         </div>
       </body>
     </html>
