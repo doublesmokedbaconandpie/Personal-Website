@@ -4,6 +4,20 @@ priority: 0
 ---
 # **Projects**
 
+## [**Blocky Chess Engine** ![github-mark.png](github-mark.png "Github Redirect")](https://github.com/knguy22/Blocky-Chess-Engine): 
+### August 2023 - Present 
+
+I've been a casual fan of chess for a while now, and I wanted to take a hand in creating a chess engine, a program that plays chess for you, myself. I ended up starting this project with two friends, and we've made a decent amount of progress.
+
+One thing that was new to me was maintaining code and syncing git changes, so I quickly had to learn that so that we could all implement the improvements in a shared codebase. 
+
+#### Skills Used:
+* C++
+* Git
+* CMake/ Make 
+* GTest and Test-Driven Development
+* Algorithms
+
 ## [**This Personal Website!** ![github-mark.png](github-mark.png "Github Redirect")](https://github.com/knguy22/personal-website):
 ### August 2023 – Present
 
