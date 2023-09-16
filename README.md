@@ -1,3 +1,3 @@
-This is a personal website that I've created in order to both detail my accomplishments and also use to learn how to use Next.js and other frameworks. 
+# My Personal Website
 
-If you want to check out the final result, you can use this [link](https://personal-website-chi-henna.vercel.app)
+Hi everybody! This is a personal website that I've created as a personal website portfolio. I won't say much more, but if you want to check out the final result, you can use this [link](https://personal-website-chi-henna.vercel.app).
