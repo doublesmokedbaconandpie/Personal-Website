@@ -7,16 +7,16 @@ priority: 0
 ## [**Blocky Chess Engine** ![github-mark.png](github-mark.png "Github Redirect")](https://github.com/knguy22/Blocky-Chess-Engine): 
 ### August 2023 - Present 
 
-I've been a casual fan of chess for a while now, and I wanted to take a hand in creating a chess engine, a program that plays chess for you, myself. I ended up starting this project with two friends, and we've made a decent amount of progress.
+I've been a casual fan of chess for a while now, and I wanted to take a hand in creating a chess engine, a program that plays chess for you. One skill that was important in the development of this engine was using version control and syncing git changes, which were useful for finetuning Blocky, the engine, in order to play stronger. This was especially relevant since there were multiple developers working on the engine at the same time.
 
-One thing that was new to me was maintaining code and syncing git changes, so I quickly had to learn that so that we could all implement the improvements in a shared codebase. 
+Thus far, techniques such as magic bitboards (perfect hashing), alpha-beta search, quiescence search, and zobrist hashing have been implemented in Blocky.
 
 #### Skills Used:
 * C++
 * Git
 * CMake/ Make 
 * GTest and Test-Driven Development
-* Algorithms
+* Data Structures and Algorithms
 
 ## [**This Personal Website!** ![github-mark.png](github-mark.png "Github Redirect")](https://github.com/knguy22/personal-website):
 ### August 2023 – Present
